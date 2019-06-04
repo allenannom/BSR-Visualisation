@@ -1,0 +1,106 @@
+body{
+	background-color: #224a89 !important;
+	font-family:Georgia, serif !important;
+}
+
+h1{
+    color: white;
+	font-weight:500;
+	text-align:center;
+	text-transform: uppercase;
+	padding-top:50px;
+}
+h2{
+	color:white;
+	font-size:20px !important;
+}
+h3{
+	color:white !important;
+	font-size:24px !important;
+	font-weight:500 !important;
+}
+.header{
+	text-align:center !important;
+}
+
+.image_header{
+	text-align:center !important;
+	padding:30px;
+}
+
+.image_header_home{
+	text-align:right !important;
+}
+
+.image_header_home h1,img{
+	text-align:right !important;
+	padding-top:0px !important;
+}
+.button_link{
+	text-align:center !important;
+	padding:30px;
+}
+
+.navigation_bar{
+	display:inline-block !important;
+	width:100% !important;
+}
+.navigation_bar img{
+	vertical-align:top !important;
+}
+.navigation_bar h3{
+	vertical-align:bottom !important;
+}
+
+.grouped_logo{
+	float:right !important;
+}
+.grouped_logo h1{
+	text-align:right !important;
+	padding-top:0px !important;
+}
+.button_link a {
+	background-color: #ee6b48;
+	padding: 14px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	box-shadow: 0 5px 0 #d15c3d;
+	margin:20px;
+	color:white;
+}
+
+.button_link a:hover{
+	background-color: #d15c3d;
+}
+.navbar{
+	margin: 0 auto !important;
+}
+.tab-style {
+  width: inherit !important;
+  border: none !important;
+  background-color: white !important;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  height: 42px !important;
+  font-size:26px !important;
+  color:#ec6a48 !important;
+  text-align:center !important;
+  
+}
+
+.selected-tab-style {
+  width: inherit !important;
+  box-shadow: none !important;
+  border-left: none !important;
+  border-right: none !important;
+  border-top: none !important;
+  border-bottom: 2px #ec6a48 solid !important;
+  background: white !important;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  height: 42px !important;
+  font-size:26px !important;
+  color:#08357C !important;
+  text-align:center !important;
+}
