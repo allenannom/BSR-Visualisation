@@ -5,7 +5,7 @@
 
 ## Screenshots
 
-###### HomePage
+### HomePage
 ![homepage_imageandtext_2](https://user-images.githubusercontent.com/49309320/58940919-a2458f80-8772-11e9-8b2c-392931a6a1d0.png)
 
 ###### 2017 Dataset DashBoard
